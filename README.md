@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Vue.js](https://vuejs.org/) enthusiast and big fun of [Storybook](https://storybook.js.org/)
+I'm a [Vue.js](https://vuejs.org/) enthusiast and big fun of [Storybook](https://storybook.js.org/)
 
 - 📋 My Resume: [PDF](https://bit.ly/3fYxKbW)
 - 📫 How to reach me: [Skype](https://join.skype.com/invite/K6ouqNfVKCDR) | [LinkedIn](https://www.linkedin.com/in/vladislavpozniak/)
